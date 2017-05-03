@@ -26,4 +26,4 @@ Java lab work for year two.
 - Implementing Runnable Threads
 
 ## Revision
--Logging with file handler
+- Logging with file handler
